@@ -1,2 +1,2 @@
 # TFM
-código lenguaje R
+código lenguaje R utilizado en el TFM
